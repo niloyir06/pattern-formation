@@ -1,2 +1,3 @@
-# pattern-formation
-Pattern formation in multi agent systems
+# Pattern Formation
+
+Formation of different patterns in robot swarms using attraction and repulsion funtions. 
